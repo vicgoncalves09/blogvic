@@ -1,4 +1,4 @@
-<footer class="bg-dark p-5 text-light">
+<footer class="bg-dark p-5 text-light">     
     <div class="container text-center">
         <small> Aula de PHP Orientado a objetos e MVC. Versão <?=
         APP_VERSAO ?>
